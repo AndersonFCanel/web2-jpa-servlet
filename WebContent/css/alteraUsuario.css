@@ -1,0 +1,89 @@
+h1.menu-cliente--intro, .menu-cliente--intro {
+	text-align: center;
+	background-color: #f1f1f1;
+	font-weight: bold;
+	padding: 10px;
+	font-size: 24px;
+}
+
+.descricao {
+	padding-left: 25px;
+	margin-top: 8px;
+	border-radius: 5px;
+	padding-right: 10px;
+}
+
+input.dados-cadastro, .dados-cadastro {
+	border-top: 0;
+	border-right: 0;
+	border-bottom: 3px solid gray;
+	border-left: 3px solid gray;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	border-radius: 20px;
+}
+
+.botao-confirmar {
+	background-color: #f1f1f1;
+	border-radius: 50px;
+	color: #000;
+	padding: 8px;
+	margin-bottom: 30px;
+	display: inline-block;
+	width: -webkit-fill-available;
+}
+
+.botao-confirmar-small {
+	background-color: #f1f1f1;
+	border-radius: 50px;
+	color: #000;
+	padding: 8px;
+	margin-bottom: 30px;
+	display: inline-block;
+}
+
+.botao-novo {
+	display: block;
+	border: 2px solid;
+	width: max-content;
+	padding: 4px 10px;
+	margin-right: 50px;
+	border-radius: 15px;
+	float: left;
+	border-color: gray;
+	background: #f1f1f1;
+	color: black;
+	margin-bottom: 4px;
+}
+
+.listagem {
+	margin-bottom: 35px;
+}
+
+.erro {
+	font-size: 25px;
+	color: red;
+	border: 1px solid red;
+	paddind: 5px;
+}
+
+.destaque {
+	border-color: red;
+}
+
+.espacador {
+	margin-bottom: 15px;
+	border-bottom: 1px solid #000;
+	border-left: 1px solid #000;
+	border-radius: 10px;
+}
+
+.card-slot {
+	border: 1px solid;
+	display: block;
+	padding: 15px;
+	width: fit-content;
+	border-radius: 5px;
+	margin: 10px;
+	box-shadow: 5px 10px #888888;
+}
